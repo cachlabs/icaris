@@ -22,9 +22,9 @@ title_separator          : "-" # Useful for SEO
 subtitle                 : "Integrated Circuit Resilience & Security"# site tagline that appears below site title in masthead; Useful for SEO
 name                     : "ICRS"
 description              : ""  # Useful for SEO
-url                      : "https://cachlabs.github.io" # 
+url                      : "https://icaris.cachlabs.com" # 
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "cachlabs/cachlabs.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "cachlabs/icaris" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "assets/images/icarisgroup_icon.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
