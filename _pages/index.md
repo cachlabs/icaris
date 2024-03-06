@@ -17,12 +17,12 @@ caused stock market glitches, self-driving car accidents, massive denial of
 online services, and the loss of critical and private information.
 
 Our research addresses the issues of Integrated Circuit Resilience and Security 
-(ICRS* ), by leveraging experience and expertise across the entire 
+(ICRS\*), by leveraging experience and expertise across the entire 
 microelectronics life cycle. This life cycle is increasingly multidisciplinary 
 and complex, and includes electronic materials, device physics, circuit design, 
 fabrication, packaging, metrology, and failure analysis.
 
-(* Stylized as "icaris" and pronounced /ˈɪkərəs/ like the mythological Greek
+(\*Stylized as "icaris" and pronounced /ˈɪkərəs/ like the mythological Greek
 character.) 
 
 We are a research group affiliated with the [**Center for National Security 
