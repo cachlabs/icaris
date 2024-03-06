@@ -1,6 +1,5 @@
 ---
 title: "Integrated Circuit Resilience & Security"
-"ICRS - /ˈɪkərəs/ - (icaris)"
 layout: splash
 permalink: /
 header:
