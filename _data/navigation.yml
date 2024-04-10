@@ -8,8 +8,8 @@ main:
      url: /people/
   # - title: "about"
   #   url: /about/
-  # - title: "join"
-  #   url: /join/
+   - title: "join"
+     url: /join/
   # - title: "people"
   # - title: "Sample Posts"
   #   url: /year-archive/
